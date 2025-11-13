@@ -1,0 +1,11 @@
+print("Enter your fullname")
+fullname=input()
+print("Enter schoolname")
+schoolname=input()
+print("enter your email")
+email=input()
+print("These are my details" ,fullname ,schoolname ,email)
+
+print("Enter your name")
+name=input()
+print("Goodmorning" ,name)
