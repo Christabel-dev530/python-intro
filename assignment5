@@ -1,0 +1,10 @@
+def surfacearea():
+    print("enter the radius")
+    r=float(input())
+    print("enter the height")
+    h=float(input())
+    p=3.142
+    surfacearea=p*r*r*h
+    print("the surfae area is" ,surfacearea)
+surfacearea()               
+        
