@@ -1,0 +1,33 @@
+#Mr Thomas has four properties valued at 100000  each 
+#his father gave him 50000 
+#his mum gave him 150000 
+#He bought a car at a value of  200000 
+#he gave his wife 30000, 
+# if the money in his account initially is 300000
+#Write a python  function code that will show how much he has in his account
+def value():
+    p=4*100000
+    f=50000
+    m=150000
+    c=200000
+    w=30000
+    income=300000
+    amount_gotten=p+f+m
+    amount_spent=c+w
+    amount_remaining=amount_gotten-amount_spent
+    print("the amount_remaining is" ,amount_remaining)
+value()
+
+
+listfruit=["orange","orange","orange","apple","apple","apple","apple","apple","apple","banana","pineapple","mango","pawpaw","groundnut"]
+#You are given the following list of fruits 
+#i.  prints out the list of fruits
+#Ii. emoves orange from the list and print the final result
+#Write a python function code that will show all
+listfruit=["orange","orange","orange","apple","apple","apple","apple","apple","apple","banana","pineapple","mango","pawpaw","groundnut"]
+    
+
+
+
+ 
+

@@ -1,0 +1,35 @@
+#mrs yinka monthly upkeep budget given by her husband  is #250,000
+#she  was meticulous enough to buy the following items 
+#4tuber of yam@ #500 each,
+#bought three stationeries@ #2000 each
+#pays debt of 45,000, 
+#pays shop deal of 25k monthly for three months due
+#Write python function code that. Determines how much she has left from the budget
+def montly_income(): 
+    budget=250000
+    e=4*500
+    r=3*2000
+    debt=45000
+    shop=3*25000
+    amount_spent=e+r+debt+shop
+    amount_left=budget-amount_spent
+    print("the amount_left is" ,amount_left)
+montly_income()
+
+#The length of a house is 42m and the breath is 34m 
+#calculate the perimeter
+#And also calculate the area
+#Then add the perimeter and area together and print out the final results
+#Write python function code that will do all these
+def shapes():
+    l=42
+    b=34
+    area=l*b
+    perimeter=2*l+2*b
+    total=area+perimeter
+    print("the total is" ,total)
+shapes()
+
+
+
+    

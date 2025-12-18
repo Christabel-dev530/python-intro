@@ -1,0 +1,8 @@
+
+print("Enter the number of sides")
+n=int(input())
+if n>=3:
+   sumofangles=(n-2) * 180
+   print("The sum of interior angles of a polygon is" ,sumofangles)
+else:
+    print("error!, n cannot be less than 3")   

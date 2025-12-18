@@ -1,0 +1,33 @@
+#mr Kolade had three properties valued at 21,000 each
+#mr kolade's friend gave him another  two properties value at 41,000 each
+#unfortunately he had a business dealing and lost 35,000
+#Write a python  function code that determines how much mr kolade is valued now
+def property():
+    a=3*21000
+    b=2*41000
+    total_value=a+b
+    loss=35000
+    value_now=total_value-loss
+    print("the value_now is" ,value_now)
+property()
+
+#Mrs Bridget went to market she bought the following items from the market
+#Pawpaw 300 pieces @50 per one
+#Ginger.                     600 @5 each
+#Groundnut              50  @10 each
+#Stationeries            550 @ 10 per one
+#Bread for the kids  10 pieces @ 50 each
+#If she had 30000 i her account but she can only spend 85% of this amount nothing more
+def items():
+    p=300*50
+    g=600*5
+    n=50*10
+    s=550*10
+    b=10*50
+    income=30000
+    amount_to_be_spent=85/100*income
+    print("the amount to be spent is" ,amount_to_be_spent)
+items()
+
+
+    

@@ -58,4 +58,26 @@ if d>100:
 else:
     m=d/3
     print(m)
-    print("the difference is less")    
+    print("the difference is less") 
+    #Mrs Bridget went to market she bought the following items from the market
+#Pawpaw 200 pieces @50 per one
+
+#Ginger.                     500 @5 each
+
+#Groundnut              50  @10 each
+
+#Stationeries            450 @ 10 per one
+
+#Stationeries            450 @ 10 per one
+
+#Bread for the kids  10 pieces @ 50 
+
+
+
+#If she had 10000 in her account but she can only spend 75% of this amount nothing #more.
+
+ #determines how much does mrs Bridget has left off the 75%
+
+
+
+   

@@ -19,4 +19,8 @@ def diameter():
     r=float(d/2)
     area_of_a_circle=p*r*r
     print("The area is" ,area_of_a_circle)
-diameter()    
+diameter()
+
+
+age = 25
+print("you are", age, "years old")   
